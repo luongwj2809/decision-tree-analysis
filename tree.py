@@ -12,7 +12,6 @@ import os
 import joblib
 from scipy import stats
 import warnings
-warnings.filterwarnings('ignore')
 
 # ============================
 # TẠO THƯ MỤC LƯU TRỮ
